@@ -1,0 +1,17 @@
+varlimit 2
+sizelimit 0
+timeout 5
+chunksize 100
+
+
+Elements: 0, 1
+
+Relations: 
+*
+
+Facts:
+*(0,0,0)
+*(0,1,1)
+*(1,1,0)
+*(1,0,1)
+end

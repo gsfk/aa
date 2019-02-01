@@ -1,0 +1,24 @@
+varlimit 2
+sizelimit 1
+timeout 5
+
+Elements: E, A, B, AB
+
+Relations: 
+Subset
+
+Facts:
+Subset(E, E)
+Subset(E, A)
+Subset(E, B)
+Subset(E, AB)
+
+Subset(A, A)
+Subset(A, AB)
+
+Subset(B, B)
+Subset(B, AB)
+
+Subset(AB, AB)
+end
+

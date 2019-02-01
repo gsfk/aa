@@ -1,0 +1,28 @@
+varlimit 2
+sizelimit 0
+
+Elements: j, k, l, m
+
+Relations: 
+*
+
+Facts:
+*(j,j,j)
+*(j,k,k)
+*(j,l,l)
+*(j,m,m)
+*(k,j,k)
+*(k,k,j)
+*(k,l,m)
+*(k,m,l)
+*(l,j,l)
+*(l,k,m)
+*(l,l,j)
+*(l,m,k)
+*(m,j,m)
+*(m,k,l)
+*(m,l,k)
+*(m,m,j)
+end
+
+% Klein 4-group

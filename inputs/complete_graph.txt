@@ -1,0 +1,24 @@
+varlimit 2
+sizelimit 1
+timeout 1
+
+Elements: A, B, C, D
+
+Relations: 
+Adj
+
+Facts:
+Adj(A,B)
+Adj(A,C)
+Adj(A,D)
+Adj(B,A)
+Adj(B,C)
+Adj(B,D)
+Adj(C,B)
+Adj(C,A)
+Adj(C,D)
+Adj(D,B)
+Adj(D,C)
+Adj(D,A)
+end
+
