@@ -7,4 +7,4 @@ https://www.cs.unm.edu/~mccune/mace4/download/
 
 On first use, you will need to show the prover the location of your Prover9 installation: when prompted, open the version in the "bin" folder. 
 
-Example input files are included. 
+Example input files are included. The executable file is "aa.jar".
